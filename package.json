@@ -1,0 +1,16 @@
+{
+  "name": "promotora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Caroline Trombeta",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.0.1",
+    "open": "^9.1.0"
+  }
+}
